@@ -1,4 +1,8 @@
-Dalam projek kali ini saya menggunakan laravel 8
+#Dalam projek kali ini saya menggunakan :
+*laravel 8
+*Bootstrap 4
+
+
 
 
 
