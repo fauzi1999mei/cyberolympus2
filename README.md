@@ -19,8 +19,14 @@
 
 ## -[untuk database yang diberikan, dan yang kemudian di perbaharui dengan menggunakan fungsi join untuk menyelesaikan soal terletak pada folder "database_yang_dipakai".]. 
 
-##-[mungkin sekian dari informasi yang saya berikan, apabila ada suatu kekurangan saya minta maaf]
-##-[Atas perhatiannya saya ucapkan terima kasih].
+## -[mungkin sekian dari informasi yang saya berikan, apabila ada suatu kekurangan saya minta maaf]
+
+## -[Atas perhatiannya saya ucapkan terima kasih].
+
+
+
+
+
 
 - [Simple, fast routing engine](https://laravel.com/docs/routing).
 - [Powerful dependency injection container](https://laravel.com/docs/container).
