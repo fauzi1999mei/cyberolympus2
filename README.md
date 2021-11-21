@@ -17,11 +17,11 @@
 
 ## Dalam Projek ini saya menggunakan Laravel Versi 8 dan bootsrtap versi 4.6.
 
-## -[untuk database yang diberikan, dan yang kemudian di perbaharui dengan menggunakan fungsi join untuk menyelesaikan soal terletak pada folder "database_yang_dipakai".]. 
+## Untuk database yang diberikan, dan yang kemudian di perbaharui dengan menggunakan fungsi join untuk menyelesaikan soal terletak pada folder "database_yang_dipakai". 
 
-## -[mungkin sekian dari informasi yang saya berikan, apabila ada suatu kekurangan saya minta maaf]
+## Mungkin sekian dari informasi yang saya berikan, apabila ada suatu kekurangan saya minta maaf]
 
-## -[Atas perhatiannya saya ucapkan terima kasih].
+## Atas perhatiannya saya ucapkan terima kasih].
 
 
 
